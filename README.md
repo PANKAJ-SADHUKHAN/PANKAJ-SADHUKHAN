@@ -8,10 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/pankajsadhukha0" target="blank"><img src="https://img.shields.io/twitter/follow/pankajsadhukha0?logo=twitter&style=for-the-badge" alt="pankajsadhukha0" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
-- 📫 How to reach me **pankajsadhukhan243@gmail.com**
+- 🌱 I’m currently learning **Web development and DSA**
+- 📫 Drop a mail at **pankajsadhukhan243@gmail.com**
+- 💬 Ask me about **tech,memes,songs**
+- 😁 Fun fact **Like to sing and travel**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pankajsadhukha0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankajsadhukha0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pankaj-sadhukhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-sadhukhan" height="30" width="40" /></a>
